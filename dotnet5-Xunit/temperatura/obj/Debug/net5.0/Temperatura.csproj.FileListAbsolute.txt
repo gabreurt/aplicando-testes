@@ -1,0 +1,11 @@
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\bin\Debug\net5.0\temperatura.deps.json
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\bin\Debug\net5.0\temperatura.dll
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\bin\Debug\net5.0\temperatura.pdb
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\temperatura.AssemblyInfoInputs.cache
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\temperatura.AssemblyInfo.cs
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\temperatura.dll
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\refint\temperatura.dll
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\temperatura.pdb
+C:\Users\bielt\OneDrive\Área de Trabalho\prova-s5\ponderada-s6\dotnet5-Xunit\temperatura\obj\Debug\net5.0\ref\temperatura.dll
